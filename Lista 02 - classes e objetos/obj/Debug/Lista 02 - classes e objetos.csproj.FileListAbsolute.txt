@@ -1,0 +1,7 @@
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\bin\Debug\Lista 02 - classes e objetos.exe.config
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\bin\Debug\Lista 02 - classes e objetos.exe
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\bin\Debug\Lista 02 - classes e objetos.pdb
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\obj\Debug\Lista 02 - classes e objetos.csprojAssemblyReference.cache
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\obj\Debug\Lista 02 - classes e objetos.csproj.CoreCompileInputs.cache
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\obj\Debug\Lista 02 - classes e objetos.exe
+E:\projetos visual studio\segunda lista de exercicios sobre classes e objetos\Lista 02 - classes e objetos\obj\Debug\Lista 02 - classes e objetos.pdb
